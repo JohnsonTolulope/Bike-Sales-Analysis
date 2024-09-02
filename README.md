@@ -1,3 +1,14 @@
 # Bike-Sales-Analysis
 comprehensisve analysis, Dashboard on Bike Sales including slicers which enable one to Navigate different insight
-![sample]()
+
+The Diagram below shows the folllowing information:
+- Numbers customer with Home owners
+- Sum of car owners by region
+- Number of children per region
+- customer commute.
+
+![sample](https://github.com/JohnsonTolulope/Bike-Sales-Analysis/blob/main/bikes%20analysis.PNG)
+
+
+
+![sample](https://github.com/JohnsonTolulope/Bike-Sales-Analysis/blob/main/bikes%20analysis.PNG)
